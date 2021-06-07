@@ -1,4 +1,4 @@
-FROM yeop2/jina-gif:1
+FROM yeop2/jina-gif:2
 
 WORKDIR /app
 
